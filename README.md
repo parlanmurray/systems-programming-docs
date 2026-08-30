@@ -11,6 +11,10 @@ https://github.com/gurugio/lowlevelprogramming-university
 
 https://developer.ibm.com/articles/l-linuxboot/
 
+## Emulation
+
+https://tobiasvl.github.io/blog/write-a-chip-8-emulator/
+
 ## CTF
 
 https://cyberlessons101.com/
